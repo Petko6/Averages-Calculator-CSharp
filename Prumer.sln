@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prumer", "Prumer\Prumer.csproj", "{ED9ED0E9-2DB8-401D-8DF0-E0767FC0DAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9ED0E9-2DB8-401D-8DF0-E0767FC0DAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9ED0E9-2DB8-401D-8DF0-E0767FC0DAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9ED0E9-2DB8-401D-8DF0-E0767FC0DAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9ED0E9-2DB8-401D-8DF0-E0767FC0DAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C04FC2-4299-4D7E-A39F-76231F0B7CBF}
+	EndGlobalSection
+EndGlobal
